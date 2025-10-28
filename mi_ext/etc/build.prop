@@ -1,0 +1,17 @@
+ro.miui.cota_app_del_support=true
+ro.miui.google.csp=true
+ro.product.mod_device=zircon_eea_global
+ro.miui.orange_pom.support_region=FR
+ro.miui.build.region=eea
+ro.vendor.miui.support_esim=true
+setupwizard.feature.enable_quick_start_flow=true
+ro.appsflyer.preinstall.path=/data/miui/pai/pre_install.appsflyer
+ro.miui.pai.preinstall.path=/data/miui/pai/
+ro.miui.customized_clientid=2
+setupwizard.feature.enable_quick_enhanced_biometrics_flow=true
+ro.vendor.imeisv=72
+ro.mi.os.flavor=phone
+ro.mi.os.version.publish=true
+ro.mi.os.version.code=2
+ro.mi.os.version.name=OS2.0
+ro.mi.os.version.incremental=OS2.0.204.0.VNOEUXM

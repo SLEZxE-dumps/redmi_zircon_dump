@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.204.0.VNOEUXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: zircon
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.204.0.VNOEUXM
+- tags: release-keys
+- fingerprint: Redmi/zircon_eea/zircon:13/TP1A.220624.014/OS2.0.204.0.VNOEUXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.204.0.VNOEUXM-release-keys
+- repo: redmi_zircon_dump
